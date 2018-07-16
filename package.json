@@ -1,0 +1,8 @@
+{
+  "name": "slice-object",
+  "version": "1.0.0",
+  "main": "slice.js",
+  "license": "MIT",
+  "repository": "https://github.com/aleclarson/slice-object.git",
+  "description": "Slice an object into a new array"
+}
