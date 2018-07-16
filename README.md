@@ -30,6 +30,6 @@ slice(args(1, 2), 2); // => []
 // Negative start indexes are supported.
 slice(args(1, 2, 3), -2); // => [2, 3]
 
-// When the start index is negative, keep it < the negative length.
+// When the start index is negative, keep it > the negative length.
 slice(args(1, 2), -3); // => [undefined, 1, 2]
 ```
