@@ -1,4 +1,4 @@
-# slice-object v1.0.0
+# slice-object v1.0.1
 
 Fastest way to slice an object into a new array.
 

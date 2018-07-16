@@ -1,6 +1,6 @@
 {
   "name": "slice-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "slice.js",
   "license": "MIT",
   "repository": "https://github.com/aleclarson/slice-object.git",
